@@ -7,3 +7,7 @@ To consolidate all this knowledge, we had to build a little game called Rock, Pa
 Despite the scoop of the course, I made some changes on my own:
 -	Adopting the MVVM pattern to decouple the logic of the game from the view.
 -	Executing a process asynchronously to show the alert message containing the round result, one second after tap the button. This way, the user has time to check his choice and computer’s.
+
+<img src="main_screen.png" width="250">
+<img src="round_screen.png" width="250">
+<img src="game_over_screen.png" width="250">
